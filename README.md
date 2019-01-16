@@ -1,2 +1,2 @@
-# IntroPython2018
+# Calando
 Introducción a la programación con Python.
